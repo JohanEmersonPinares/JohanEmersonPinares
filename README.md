@@ -28,6 +28,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,sass,python,vercel,express,mongodb,postgres,mysql,sqlite,nodejs,git,cs,dotnet,java,angular,bootstrap,figma,notion,postman,sass,wordpress" />
   </a>
 </p>
+## GitHub Stats :octocat:
+
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohanEmersonPinares&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanEmersonPinares&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</p>
+
+
 
 
 
